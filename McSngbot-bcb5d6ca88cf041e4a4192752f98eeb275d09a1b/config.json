@@ -1,0 +1,9 @@
+{
+  "ip": "kr.mcfallout.net",
+  "port": "25565",
+  "username": "Minecraft 帳號",
+  "password": "密碼",
+  "Publicity": "設施宣傳內容",
+  "Transaction": "交易頻道宣傳內容",
+  "whitelist": "指令白名單ID"
+}
